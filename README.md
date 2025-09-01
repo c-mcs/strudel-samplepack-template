@@ -1,4 +1,4 @@
-# Strudel Sample Pack Template
+# UWU
 
 This repository serves as a blank template to create your own Strudel sample packs.
 

@@ -1,5 +1,4 @@
-# Strudel Sample Pack Template
-
+# OWO
 This repository serves as a blank template to create your own Strudel sample packs.
 
 ## How it works

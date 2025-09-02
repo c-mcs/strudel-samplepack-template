@@ -850,6 +850,11 @@
     "snare/SNARE90.wav",
     "snare/SNARE91.wav"
   ],
+  "wobs": [
+    "wobs/wob_C4.wav",
+    "wobs/wob_C5.wav",
+    "wobs/wowob_C4.wav"
+  ],
   "yhwh": [
     "yhwh/yhwh.wav"
   ]
